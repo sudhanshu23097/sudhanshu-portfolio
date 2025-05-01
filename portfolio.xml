@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <personalInfo>
+        <name>Sudhanshu Kumar</name>
+        <birthMonth>September</birthMonth>
+        <birthYear>2007</birthYear>
+        <education>
+            <schooling>
+                <level>Matriculation</level>
+                <year>2023</year>
+                <board>CBSE</board>
+            </schooling>
+            <schooling>
+                <level>Intermediate</level>
+                <year>2025</year>
+                <board>CBSE</board>
+            </schooling>
+        </education>
+        <email>sudhanshu.kumar23097@gmail.com</email>
+        <profilePhoto>https://drive.google.com/file/d/1DR3z_qIQjDpMitJXyuogZhniEa-Mfv6F/view?usp=drivesdk</profilePhoto>
+    </personalInfo>
+    <expertise>
+        <area>Java</area>
+        <area>Excel</area>
+        <area>Microsoft Office</area>
+    </expertise>
+    <skills>
+        <skill>Web Development</skill>
+        <skill>Excel Automation</skill>
+        <skill>Data Analysis</skill>
+    </skills>
+    <projects>
+        <project>
+            <title>Coming Soon</title>
+            <description>Portfolio projects will be added here in the future.</description>
+        </project>
+    </projects>
+</portfolio>
