@@ -1,2 +1,42 @@
 # sudhanshu-portfolio
 My personal portfolio website
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="portfolio.xsl"?>
+<portfolio>
+  <personalInfo>
+    <name>Sudhanshu Kumar</name>
+    <birthMonth>September</birthMonth>
+    <birthYear>2007</birthYear>
+    <email>sudhanshu.kumar23097@gmail.com</email>
+    <profilePhoto>https://example.com/photo.jpg</profilePhoto>
+  </personalInfo>
+  <education>
+    <schooling>
+      <level>10th</level>
+      <year>2023</year>
+      <board>CBSE</board>
+    </schooling>
+    <schooling>
+      <level>12th</level>
+      <year>2025</year>
+      <board>CBSE</board>
+    </schooling>
+  </education>
+  <expertise>
+    <area>Java</area>
+    <area>Excel</area>
+    <area>Microsoft Office</area>
+  </expertise>
+  <skills>
+    <skill>Web Development</skill>
+    <skill>Excel Automation</skill>
+    <skill>Data Analysis</skill>
+  </skills>
+  <projects>
+    <project>
+      <title>Web Development</title>
+      <description>Creating dynamic websites with HTML, CSS, JavaScript</description>
+    </project>
+  </projects>
+</portfolio>
