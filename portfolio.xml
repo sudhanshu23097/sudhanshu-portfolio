@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="portfolio.xsl"?>
 <portfolio>
     <personalInfo>
         <name>Sudhanshu Kumar</name>
         <birthMonth>September</birthMonth>
         <birthYear>2007</birthYear>
         <email>sudhanshu.kumar23097@gmail.com</email>
-        <profilePhoto>https://raw.githubusercontent.com/sudhanshu23097/sudhanshu-portfolio/main/profile.jpg</profilePhoto>
+        <profilePhoto>https://raw.githubusercontent.com/sudhanshu23097/sudhanshu-portfolio/refs/heads/main/image%20sudhanshu%20(1)%20(1).jpg</profilePhoto>
     </personalInfo>
 
     <education>
