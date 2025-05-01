@@ -27,6 +27,12 @@
           <h2>Education</h2>
           <ul>
             <xsl:for-each select="portfolio/personalInfo/education/schooling">
+              <xsl:for-each select="portfolio/education/schooling">
+  <h3><xsl:value-of select="level"/></h3>
+  <p>Year: <xsl:value-of select="year"/></p>
+  <p>Board: <xsl:value-of select="board"/></p>
+</xsl:for-each>
+
               <li><xsl:value-of select="level"/> - <xsl:value-of select="year"/> (<xsl:value-of select="board"/>)</li>
             </xsl:for-each>
           </ul>
