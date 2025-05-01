@@ -35,6 +35,17 @@
     </skills>
 
     <projects>
-        <!-- You can add projects here in the future -->
+        <project>
+            <name>Java Calculator</name>
+            <description>This is a simple Java-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.</description>
+            <technologies>Java, Swing</technologies>
+            <link>https://github.com/sudhanshu23097/Java-Calculator</link>
+        </project>
+        <project>
+            <name>Excel Automation Script</name>
+            <description>Automated Excel data entry and reporting using Java and Apache POI library.</description>
+            <technologies>Java, Apache POI</technologies>
+            <link>https://github.com/sudhanshu23097/Excel-Automation</link>
+        </project>
     </projects>
 </portfolio>
