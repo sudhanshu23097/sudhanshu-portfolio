@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="portfolio.xsl"?>
 <portfolio>
-  <personalInfo>
-    <name>Sudhanshu Kumar</name>
-    <birthMonth>September</birthMonth>
-    <birthYear>2007</birthYear>
-    <email>sudhanshu.kumar23097@gmail.com</email>
-    <https://raw.githubusercontent.com/sudhanshu23097/sudhanshu-portfolio/refs/heads/main/image%20sudhanshu%20(1)%20(1).jpg>https://example.com/photo.jpg</profilePhoto>
-  </personalInfo>
-  <education>
-    <schooling>
-      <level>10th</level>
-      <year>2023</year>
-      <board>CBSE</board>
-    </schooling>
-    <schooling>
-      <level>12th</level>
-      <year>2025</year>
-      <board>CBSE</board>
-    </schooling>
-  </education>
-  <expertise>
-    <area>Java</area>
-    <area>Excel</area>
-    <area>Microsoft Office</area>
-  </expertise>
-  <skills>
-    <skill>Web Development</skill>
-    <skill>Excel Automation</skill>
-    <skill>Data Analysis</skill>
-  </skills>
-  <projects>
-    <project>
-      <title>Web Development</title>
-      <description>Creating dynamic websites with HTML, CSS, JavaScript</description>
-    </project>
-  </projects>
+    <personalInfo>
+        <name>Sudhanshu Kumar</name>
+        <birthMonth>September</birthMonth>
+        <birthYear>2007</birthYear>
+        <email>sudhanshu.kumar23097@gmail.com</email>
+        <profilePhoto>https://raw.githubusercontent.com/sudhanshu23097/sudhanshu-portfolio/main/profile.jpg</profilePhoto>
+    </personalInfo>
+
+    <education>
+        <schooling>
+            <level>10th (Matriculation)</level>
+            <year>2023</year>
+            <board>CBSE</board>
+        </schooling>
+        <schooling>
+            <level>12th (Intermediate)</level>
+            <year>2025</year>
+            <board>CBSE</board>
+        </schooling>
+    </education>
+
+    <expertise>
+        <area>Java</area>
+        <area>Excel</area>
+        <area>Microsoft Office</area>
+    </expertise>
+
+    <skills>
+        <skill>Web Development</skill>
+        <skill>Excel Automation</skill>
+        <skill>Data Analysis</skill>
+    </skills>
+
+    <projects>
+        <!-- You can add projects here in the future -->
+    </projects>
 </portfolio>
